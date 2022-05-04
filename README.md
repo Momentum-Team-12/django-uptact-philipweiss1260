@@ -46,8 +46,8 @@ If you get a `SECRET_KEY` error when you run your django server, you'll need to 
 ```sh
 $ cp uptact/.env.sample uptact/.env
 ```
-💫 Remember that `cp` is the shell command to copy files.
 
+💫 Remember that `cp` is the shell command to copy files.
 
 ## Task 1
 
